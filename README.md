@@ -13,21 +13,21 @@ A Streamlit-based attendance system that uses facial recognition to automate stu
 ## Installation
 
 1. Clone the repository:
-```bash
-git clone https://github.com/joothis/face-recognition-attendance.git
-cd face-recognition-attendance
-```
+    ```bash
+    git clone https://github.com/joothis/face-recognition-attendance.git
+    cd face-recognition-attendance
+    ```
 
 2. Create a virtual environment (recommended):
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows, use: venv\Scripts\activate
-```
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows, use: venv\Scripts\activate
+    ```
 
 3. Install the required packages:
-```bash
-pip install -r requirements.txt
-```
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ## Directory Structure
 
@@ -38,15 +38,15 @@ face-recognition-attendance/
 ├── encodings/          # Stores face encoding data
 ├── attendance_records/ # Stores daily attendance CSV files
 ├── students.csv        # Student information database
-└── app.py             # Main application file
+└── app.py              # Main application file
 ```
 
 ## Usage
 
 1. Start the application:
-```bash
-streamlit run app.py
-```
+    ```bash
+    streamlit run app.py
+    ```
 
 2. Access the web interface through your browser (typically http://localhost:8501)
 
@@ -71,6 +71,20 @@ streamlit run app.py
 1. Select "View Attendance" from the sidebar
 2. Choose a date to view records
 3. View attendance data in tabular format
+
+## Screenshots
+
+### Dashboard
+![Dashboard Screenshot](screenshots/dashboard.png)
+
+### Register Student
+![Register Student Screenshot](screenshots/register_student.png)
+
+### Mark Attendance
+![Mark Attendance Screenshot](screenshots/mark_attendance.png)
+
+### View Attendance
+![View Attendance Screenshot](screenshots/view_attendance.png)
 
 ## Dependencies
 
