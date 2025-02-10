@@ -73,18 +73,30 @@ face-recognition-attendance/
 3. View attendance data in tabular format
 
 ## Screenshots
+### Code
+![Dashboard Screenshot](screenshots/Code.png)
 
 ### Dashboard
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](screenshots/Dashboard.png)
 
 ### Register Student
-![Register Student Screenshot](screenshots/register_student.png)
+![Register Student Screenshot](screenshots/Reigester.png)
 
 ### Mark Attendance
-![Mark Attendance Screenshot](screenshots/mark_attendance.png)
+![Mark Attendance Screenshot](screenshots/MarkAttendace.png)
 
 ### View Attendance
-![View Attendance Screenshot](screenshots/view_attendance.png)
+![View Attendance Screenshot](screenshots/Records.png)
+
+### Settings
+![Dashboard Screenshot](screenshots/Settings,png)
+
+## Demo Video
+
+To see the system in action, watch the demo video:
+
+[![Watch the Demo Video](screenshots/Dashboard.png)](https://drive.google.com/file/d/1KDcLDveXxvvPvLS-qyawCdCKKF6Qj8b8/view?usp=drive_link)
+
 
 ## Dependencies
 
