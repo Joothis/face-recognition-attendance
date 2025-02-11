@@ -225,6 +225,10 @@ def create_ui():
         show_records_page()
     elif nav_selection == "Settings":
         show_settings_page()
+    
+    # Footer
+
+    st.markdown("<div style='text-align: center; margin-top: 2rem;'>© 2025 Smart Attendance System <br>Developed by Joothiswaran Palanisamy</div>", unsafe_allow_html=True)
 
 def show_dashboard():
     """Display dashboard page"""
@@ -440,5 +444,4 @@ def show_settings_page():
 
 if __name__ == "__main__":
     create_ui()
-  
     st.stop()
