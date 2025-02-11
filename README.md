@@ -73,30 +73,30 @@ face-recognition-attendance/
 3. View attendance data in tabular format
 
 ## Screenshots
+
 ### Code
-![Dashboard Screenshot](screenshots/Code.png)
+![Code Screenshot](./Screenshots/Code.png)
 
 ### Dashboard
-![Dashboard Screenshot](screenshots/Dashboard.png)
+![Dashboard Screenshot](./Screenshots/Dashboard.png)
 
 ### Register Student
-![Register Student Screenshot](screenshots/Reigester.png)
+![Register Student Screenshot](./Screenshots/Reigester.png)
 
 ### Mark Attendance
-![Mark Attendance Screenshot](screenshots/MarkAttendace.png)
+![Mark Attendance Screenshot](./Screenshots/MarkAttendace.png)
 
 ### View Attendance
-![View Attendance Screenshot](screenshots/Records.png)
+![View Attendance Screenshot](./Screenshots/Records.png)
 
 ### Settings
-![Dashboard Screenshot](screenshots/Settings,png)
+![Settings Screenshot](./Screenshots/Settings.png)
 
 ## Demo Video
 
 To see the system in action, watch the demo video:
 
-[![Watch the Demo Video](screenshots/Dashboard.png)](https://drive.google.com/file/d/1KDcLDveXxvvPvLS-qyawCdCKKF6Qj8b8/view?usp=drive_link)
-
+[Watch the Demo Video](https://drive.google.com/file/d/1KDcLDveXxvvPvLS-qyawCdCKKF6Qj8b8/view?usp=drive_link)
 
 ## Dependencies
 
@@ -124,7 +124,7 @@ For a complete list, see `requirements.txt`
 
 ## Troubleshooting
 
-1. If camera doesn't work:
+1. If the camera doesn't work:
    - Check camera permissions in your browser
    - Ensure no other application is using the camera
 
